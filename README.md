@@ -1,6 +1,5 @@
-# Crowdfunding_ETL
 # **PROJECT-2**
-![download]([https://github.com/Cameron762/Project-1-11/assets/72319764/7f8c363a-026a-429c-be56-127ed8535605](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIfnfFy9lf0JxSrbs5wXt-ea2ESgiJ6mbLM_8bGwzh&s))
+# Crowdfunding_ETL
 
 **PROJECT TITLE:**
 The ETL (Extract, Transform and Load) of crowdfunding Data to create multiple data frames.
@@ -10,8 +9,6 @@ The ETL (Extract, Transform and Load) of crowdfunding Data to create multiple da
 [INSTALLATION](#installation)  
 [DOCUMENTATION](#documentation)  
 [DEVELOPMENT](#development)  
-[FINDINGS](#findings)
-[CONCLUSIONS](#conclusions)
 
 
 **PROJECT DESCRIPTION**  
@@ -39,8 +36,8 @@ Using cowdfunding data, the purpose of this project was to showcase how to extra
 
 **DOCUMENTATION**
 - ERD
-
  
+![DBD](https://github.com/kcjoel/Crowdfunding_ETL/assets/72319764/19468f07-6617-433e-9f4c-e47bf14c2185)
 
 
 **DEVELOPMENT**  
@@ -77,6 +74,3 @@ The instructions for this mini project are divided into the following subsection
     - Each CSV file is imported into the appropriate table without errors (5 points)
     - The data from each table is displayed using a SELECT * statement
 
-**FINDINGS**
-
-**CONCLUSIONS**
